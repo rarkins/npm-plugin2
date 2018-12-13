@@ -52,7 +52,7 @@
     "circular-json": "^0.5.7",
     "cli": "^1.0.1",
     "cryptiles": "^4.1.2",
-    "download": "^6.0.0",
+    "download": "^7.0.0",
     "eol": "^0.9.1",
     "findup-sync": "^1.0.0",
     "glob": "^7.1.3",
